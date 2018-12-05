@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "data": [{
+    "writeList":[
+      {
+        "id":1,
+        "title":"女人心|140字微小说",
+        "contain":"回家路上看到小丽。 我：你们班的班草你追得怎么样了？ 小丽：我们在一起了。 我：不是吧，好多妹子又是情书，又是礼物，都不成，你怎么办到的？ 小丽..."
+      },
+      {
+        "id":2,
+        "title":"如果，被爆出轨的不是刘强东，而是奶茶妹妹……",
+        "contain":"文 / 西门君 图 / 网络 1. “刘强东在美国涉嫌性侵”的新闻，你们应该都知道了，简单还原一下背景： 当地时间8月31日，明尼苏达州明尼阿波..."
+      },
+      {
+        "id":3,
+        "title":"微故事（名牌衣服）",
+        "contain":"名牌衣服   某女到某名牌店花了五位数购买了一件某品牌服装。回家后对镜试穿，感觉很不错。于是，穿上名牌衣服出席某大型宴会。从大家羡慕和赞..."
+      },
+      {
+        "id": 4,
+        "title":"微故事（名牌衣服）",
+        "contain":"名牌衣服   某女到某名牌店花了五位数购买了一件某品牌服装。回家后对镜试穿，感觉很不错。于是，穿上名牌衣服出席某大型宴会。从大家羡慕和赞..."
+      },
+      {
+        "id":5,
+        "title":"微故事（名牌衣服）",
+        "contain":"名牌衣服   某女到某名牌店花了五位数购买了一件某品牌服装。回家后对镜试穿，感觉很不错。于是，穿上名牌衣服出席某大型宴会。从大家羡慕和赞..."
+      }
+    ],
+    "hotList":[
+      {
+        "id": 1,
+        "imgPic": "//cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+      },
+      {
+        "id": 2,
+        "imgPic": "//cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+      },
+      {
+        "id": 3,
+        "imgPic": "//cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      },
+      {
+        "id": 4,
+        "imgPic": "//cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      },
+      {
+        "id": 5,
+        "mgPic": "//cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+      }
+    ]
+  }]
+}

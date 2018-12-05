@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "data": [{
+    "swiperList":[
+      {
+      "id": 1,
+      "imgpic": "//upload.jianshu.io/admin_banners/web_images/4581/14d959ff757f21616baa933fd3bdbfcf52fd512a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+      },
+      {
+        "id": 2,
+        "imgpic": "//upload.jianshu.io/admin_banners/web_images/4582/2db83cc6f08d13c2f83002238ca32b784266c4fb.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+      },
+      {
+        "id": 3,
+        "imgpic": "//upload.jianshu.io/admin_banners/web_images/4579/0e3caa20d3d30658dc4b393d1ea105baa7e78248.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+      }
+    ]
+  }]
+}
